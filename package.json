@@ -1,0 +1,21 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "Representation of conways game of life",
+  "main": "gameoflife.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"node gameoflife.js"
+  },
+  "keywords": [
+    "game",
+    "of",
+    "life",
+    "conway"
+  ],
+  "author": "Naveen Karnam",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
